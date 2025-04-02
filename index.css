@@ -1,0 +1,17 @@
+ /* Element selector */
+        p {
+            font-size: 18px;
+            color: blue;
+        }
+        
+        /* Class selector */
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+        
+        /* ID selector */
+        #main-heading {
+            color: red;
+            text-align: center;
+        }
